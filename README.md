@@ -21,5 +21,5 @@ STEPS TO EXECUTE THE PROJECT :
 3. Developed RESTful APIs using Java Spring Boot within IntelliJ IDE for CRUD operations.
 4. Rigorously tested all API endpoints using Postman to ensure correct functionality and data integrity.
 5. Built the frontend using HTML, CSS, and JavaScript for user interaction.
-6.Integrated frontend with backend APIs for seamless data communication and display.
-7.Delivered a fully functional web application through a structured and methodical development approach.
+6. Integrated frontend with backend APIs for seamless data communication and display.
+7. Delivered a fully functional web application through a structured and methodical development approach.
